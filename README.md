@@ -1,1 +1,1 @@
-# android-jetpack-compose-counter-app
+# Simple counter app with Jetpack Compose
